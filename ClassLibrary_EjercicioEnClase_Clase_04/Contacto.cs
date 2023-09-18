@@ -8,5 +8,13 @@ namespace ClassLibrary_EjercicioEnClase_Clase_04
 {
     internal class Contacto
     {
+        public string nombre;
+        public string numero;
+
+        public Contacto(string nombre, string numero)
+        {
+            this.nombre = nombre;
+            this.numero = numero;
+        }
     }
 }

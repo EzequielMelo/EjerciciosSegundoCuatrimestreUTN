@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary_EjercicioEnClase_Clase_04
 {
-    internal class EMarca
+    public enum EMarca
     {
+        Samsung,
+        Apple,
+        Xiaomi,
+        Motorola,
+        Huawei
     }
 }
