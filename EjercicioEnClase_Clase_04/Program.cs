@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics.Contracts;
+using ClassLibrary_EjercicioEnClase_Clase_04;
 
 internal class Program
 {

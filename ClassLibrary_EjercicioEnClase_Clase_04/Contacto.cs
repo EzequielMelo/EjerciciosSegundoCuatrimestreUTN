@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary_EjercicioEnClase_Clase_04
 {
-    internal class Contacto
+    public class Contacto
     {
         public string nombre;
         public string numero;

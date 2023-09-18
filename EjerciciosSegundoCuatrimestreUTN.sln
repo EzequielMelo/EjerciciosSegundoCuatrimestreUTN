@@ -3,29 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_01_Clase_03", "Ejercicio_01_Clase_03\Ejercicio_01_Clase_03.csproj", "{31BD9029-1292-424C-99DB-3FD17EF89284}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_01_Clase_03", "Ejercicio_01_Clase_03\Ejercicio_01_Clase_03.csproj", "{31BD9029-1292-424C-99DB-3FD17EF89284}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 03", "Clase 03", "{B3965612-5EE3-43F8-9BE2-77770BD92996}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 02", "Clase 02", "{FD0F8E07-F65C-4F4F-BD65-8A13F2D3019D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_String", "Ejercicio_String\Ejercicio_String.csproj", "{B5ABE157-6905-45D1-969B-AC241C57EA40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_String", "Ejercicio_String\Ejercicio_String.csproj", "{B5ABE157-6905-45D1-969B-AC241C57EA40}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicio 1", "Ejercicio 1", "{07165085-7E0E-477D-96C5-19972F3D534F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_Ejercicio_01_Clase_03", "ClassLibrary_Ejercicio_01_Clase_03\ClassLibrary_Ejercicio_01_Clase_03.csproj", "{07185CC7-4CE0-457F-9B88-0922684750A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary_Ejercicio_01_Clase_03", "ClassLibrary_Ejercicio_01_Clase_03\ClassLibrary_Ejercicio_01_Clase_03.csproj", "{07185CC7-4CE0-457F-9B88-0922684750A3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicio 2", "Ejercicio 2", "{DDD82F09-7AED-4958-B2D2-5D723548FFD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_02_Clase_03", "Ejercicio_02_Clase_03\Ejercicio_02_Clase_03.csproj", "{53A5E7BD-7C73-4662-8099-CA6AED3615BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_02_Clase_03", "Ejercicio_02_Clase_03\Ejercicio_02_Clase_03.csproj", "{53A5E7BD-7C73-4662-8099-CA6AED3615BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_Ejercicio_02_Clase03", "ClassLibrary_Ejercicio_02_Clase03\ClassLibrary_Ejercicio_02_Clase03.csproj", "{462EAD1D-317E-43D0-B896-DC946617A793}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary_Ejercicio_02_Clase03", "ClassLibrary_Ejercicio_02_Clase03\ClassLibrary_Ejercicio_02_Clase03.csproj", "{462EAD1D-317E-43D0-B896-DC946617A793}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 04 (Sobrecargas)", "Clase 04 (Sobrecargas)", "{20D07C16-B98C-44B0-A2B4-873477FC7F05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioEnClase_Clase_04", "EjercicioEnClase_Clase_04\EjercicioEnClase_Clase_04.csproj", "{E5650B79-49D2-4F8F-A86C-0BAFA2B85D00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioEnClase_Clase_04", "EjercicioEnClase_Clase_04\EjercicioEnClase_Clase_04.csproj", "{E5650B79-49D2-4F8F-A86C-0BAFA2B85D00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_EjercicioEnClase_Clase_04", "ClassLibrary_EjercicioEnClase_Clase_04\ClassLibrary_EjercicioEnClase_Clase_04.csproj", "{F2EF7CA1-0611-4545-A451-B769AEBA945D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary_EjercicioEnClase_Clase_04", "ClassLibrary_EjercicioEnClase_Clase_04\ClassLibrary_EjercicioEnClase_Clase_04.csproj", "{F2EF7CA1-0611-4545-A451-B769AEBA945D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicio en Clases", "Ejercicio en Clases", "{DDC205A8-45FC-4C29-9213-6DD722212E8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicio 1", "Ejercicio 1", "{21C9D6D3-430B-4590-8F6A-A274A2CB1FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_01_Clase_04-Sumador", "Ejercicio_01_Clase_04-Sumador\Ejercicio_01_Clase_04-Sumador.csproj", "{6CB6997F-77A2-4E62-9F9A-C504D51009F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_Ejercicio_01_Clase_04-Sumador", "ClassLibrary_Ejercicio_01_Clase_04-Sumador\ClassLibrary_Ejercicio_01_Clase_04-Sumador.csproj", "{9E83D7A8-A1FE-44B6-A106-A781C91FAAC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +69,14 @@ Global
 		{F2EF7CA1-0611-4545-A451-B769AEBA945D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2EF7CA1-0611-4545-A451-B769AEBA945D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2EF7CA1-0611-4545-A451-B769AEBA945D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB6997F-77A2-4E62-9F9A-C504D51009F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB6997F-77A2-4E62-9F9A-C504D51009F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB6997F-77A2-4E62-9F9A-C504D51009F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB6997F-77A2-4E62-9F9A-C504D51009F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E83D7A8-A1FE-44B6-A106-A781C91FAAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E83D7A8-A1FE-44B6-A106-A781C91FAAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E83D7A8-A1FE-44B6-A106-A781C91FAAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E83D7A8-A1FE-44B6-A106-A781C91FAAC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,8 +89,12 @@ Global
 		{DDD82F09-7AED-4958-B2D2-5D723548FFD9} = {B3965612-5EE3-43F8-9BE2-77770BD92996}
 		{53A5E7BD-7C73-4662-8099-CA6AED3615BD} = {DDD82F09-7AED-4958-B2D2-5D723548FFD9}
 		{462EAD1D-317E-43D0-B896-DC946617A793} = {DDD82F09-7AED-4958-B2D2-5D723548FFD9}
-		{E5650B79-49D2-4F8F-A86C-0BAFA2B85D00} = {20D07C16-B98C-44B0-A2B4-873477FC7F05}
-		{F2EF7CA1-0611-4545-A451-B769AEBA945D} = {20D07C16-B98C-44B0-A2B4-873477FC7F05}
+		{E5650B79-49D2-4F8F-A86C-0BAFA2B85D00} = {DDC205A8-45FC-4C29-9213-6DD722212E8C}
+		{F2EF7CA1-0611-4545-A451-B769AEBA945D} = {DDC205A8-45FC-4C29-9213-6DD722212E8C}
+		{DDC205A8-45FC-4C29-9213-6DD722212E8C} = {20D07C16-B98C-44B0-A2B4-873477FC7F05}
+		{21C9D6D3-430B-4590-8F6A-A274A2CB1FCF} = {20D07C16-B98C-44B0-A2B4-873477FC7F05}
+		{6CB6997F-77A2-4E62-9F9A-C504D51009F9} = {21C9D6D3-430B-4590-8F6A-A274A2CB1FCF}
+		{9E83D7A8-A1FE-44B6-A106-A781C91FAAC8} = {21C9D6D3-430B-4590-8F6A-A274A2CB1FCF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {11E7C9A0-5D34-45DC-8282-B018731E2CC3}

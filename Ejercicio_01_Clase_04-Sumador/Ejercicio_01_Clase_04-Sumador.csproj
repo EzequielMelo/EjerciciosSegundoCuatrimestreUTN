@@ -3,12 +3,13 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Ejercicio_01_Clase_04_Sumador</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary_EjercicioEnClase_Clase_04\ClassLibrary_EjercicioEnClase_Clase_04.csproj" />
+    <ProjectReference Include="..\ClassLibrary_Ejercicio_01_Clase_04-Sumador\ClassLibrary_Ejercicio_01_Clase_04-Sumador.csproj" />
   </ItemGroup>
 
 </Project>
